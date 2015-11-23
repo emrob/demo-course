@@ -1,0 +1,31 @@
+{
+    "GRADER": [
+        {
+            "drop_count": 0, 
+            "min_count": 1, 
+            "short_label": "HW", 
+            "type": "Homework", 
+            "weight": 0.3
+        }, 
+        {
+            "drop_count": 0, 
+            "min_count": 1, 
+            "short_label": "Quiz", 
+            "type": "Quiz", 
+            "weight": 0.3
+        }, 
+        {
+            "drop_count": 0, 
+            "min_count": 1, 
+            "short_label": "Exam", 
+            "type": "Exam", 
+            "weight": 0.4
+        }
+    ], 
+    "GRADE_CUTOFFS": {
+        "A": 0.9, 
+        "B": 0.8, 
+        "C": 0.7, 
+        "D": 0.6
+    }
+}

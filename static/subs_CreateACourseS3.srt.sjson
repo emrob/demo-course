@@ -1,0 +1,44 @@
+{
+  "start": [
+    1002, 
+    4002, 
+    5439, 
+    8082, 
+    13054, 
+    18689, 
+    22269, 
+    26539, 
+    29082, 
+    33054, 
+    34052, 
+    41028
+  ], 
+  "end": [
+    4020, 
+    5241, 
+    8820, 
+    12154, 
+    18203, 
+    21747, 
+    26296, 
+    29820, 
+    32154, 
+    33152, 
+    40128, 
+    43072
+  ], 
+  "text": [
+    "In this video, we&#39;re going to show you just how easy it is to create a course", 
+    "within an Open edx.", 
+    "First, login using your user credentials.", 
+    "After that, just click the green button in the upper right hand corner", 
+    "that says Add New Course. This will take you to a page of course information.", 
+    "All you have to do on this page is fill out the information", 
+    "and click Create. Notice when you fill out the bottom three forms", 
+    "you might get an error message like this. This is to ensure that you don&#39;t include", 
+    "any spaces or special characters because these three fields will be included in your", 
+    "course URL.", 
+    "Once you\u2019ve filled out all the fields, just click Create.", 
+    "And there you have it - a brand new Open edX course."
+  ]
+}

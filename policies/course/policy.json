@@ -1,0 +1,52 @@
+{
+    "course/course": {
+        "advertised_start": "On Demand", 
+        "course_image": "CourseImage2.jpg", 
+        "discussion_blackouts": [
+            "2014-09-15", 
+            "2015-09-21"
+        ], 
+        "discussion_topics": {
+            "General": {
+                "id": "course"
+            }
+        }, 
+        "display_name": "Creating Your First Course in Open edX", 
+        "graceperiod": "", 
+        "language": "en", 
+        "minimum_grade_credit": 0.8, 
+        "start": "2015-01-01T00:00:00Z", 
+        "tabs": [
+            {
+                "name": "Courseware", 
+                "type": "courseware"
+            }, 
+            {
+                "name": "Course Info", 
+                "type": "course_info"
+            }, 
+            {
+                "name": "Textbooks", 
+                "type": "textbooks"
+            }, 
+            {
+                "name": "Discussion", 
+                "type": "discussion"
+            }, 
+            {
+                "name": "Wiki", 
+                "type": "wiki"
+            }, 
+            {
+                "name": "Progress", 
+                "type": "progress"
+            }
+        ], 
+        "xml_attributes": {
+            "filename": [
+                "course/course.xml", 
+                "course/course.xml"
+            ]
+        }
+    }
+}

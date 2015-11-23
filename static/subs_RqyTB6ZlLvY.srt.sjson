@@ -1,0 +1,50 @@
+{
+  "start": [
+    3620, 
+    6700, 
+    10650, 
+    14320, 
+    20680, 
+    28849, 
+    32750, 
+    37589, 
+    40809, 
+    45539, 
+    52469, 
+    57789, 
+    62850, 
+    70240
+  ], 
+  "end": [
+    6700, 
+    10650, 
+    14320, 
+    20680, 
+    28849, 
+    32750, 
+    37589, 
+    40809, 
+    45539, 
+    52469, 
+    57789, 
+    62850, 
+    69750, 
+    74380
+  ], 
+  "text": [
+    "In this video, we&#39;re going to take a look at Files and Uploads within Open edX.", 
+    "Any files you use an Open edX are automatically stored in one", 
+    "central location called Files and Uploads. This includes everything from", 
+    "textbooks to images to student handouts. To access this page, simply click on the", 
+    "Content drop down menu, and select Files and Uploads. This will take you to the", 
+    "Files and Uploads page. Here, you can see every file that you use in your course.", 
+    "To add a new one, simply click the button that says Upload New File. You&#39;ll notice", 
+    "that the maximum file size is 10 megabytes you won\u2019t be able to upload", 
+    "anything bigger. Click Choose File. Select the file you would like to upload. Click", 
+    "Open, and there it is. Now we&#39;ll see our new file here along with a preview, the", 
+    "name of the file, the type, the date added, and two URLs. The web URL is for use", 
+    "outside of Open edX. The studio URL is what you\u2019ll use for everything", 
+    "within Open edX. This includes content pages and student emails as well as course handouts.", 
+    "And that&#39;s all there is to it."
+  ]
+}

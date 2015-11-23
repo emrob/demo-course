@@ -1,0 +1,23 @@
+<problem display_name="Multiple Choice" markdown="Let's see if you were paying attention! Don't worry, you can have as many attempts as you like, and also, this won't go on your permanent record.&#10;&#10;&gt;&gt;Which of the following should you NOT include in the Organization, Course Number, or Course Run of your Open edX course?&lt;&lt;&#10;( ) Capital letters&#10;( ) Numbers&#10;(x) Spaces and Special Characters&#10;( ) Helpful information&#10;&#10;[explanation]&#10;Your Organization, Course Number, and Course Run are going to be a part of your course URL, so we can NOT include anything that might disrupt that.&#10;[explanation]&#10;">
+<p>Let's see if you were paying attention! Don't worry, you can have as many attempts as you like, and also, this won't go on your permanent record.</p>
+
+<p>Which of the following should you NOT include in the Organization, Course Number, or Course Run of your Open edX course?</p>
+<multiplechoiceresponse>
+  <choicegroup label="Which of the following should you NOT include in the Organization, Course Number, or Course Run of your Open edX course?" type="MultipleChoice">
+    <choice correct="false">Capital letters</choice>
+    <choice correct="false">Numbers</choice>
+    <choice correct="true">Spaces and Special Characters</choice>
+    <choice correct="false">Helpful information</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Your Organization, Course Number, and Course Run are going to be a part of your course URL, so we can NOT include anything that might disrupt that.</p>
+
+</div>
+</solution>
+
+</problem>

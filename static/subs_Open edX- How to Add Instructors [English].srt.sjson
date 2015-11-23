@@ -1,0 +1,44 @@
+{
+  "start": [
+    2054, 
+    7013, 
+    11039, 
+    14058, 
+    17025, 
+    18063, 
+    21088, 
+    25068, 
+    30004, 
+    31083, 
+    35095, 
+    37095
+  ], 
+  "end": [
+    6113, 
+    11039, 
+    14058, 
+    16125, 
+    18063, 
+    21088, 
+    24096, 
+    29104, 
+    31083, 
+    35095, 
+    37095, 
+    38177
+  ], 
+  "text": [
+    "In this video, we're going to talk about how to add instructors to your course.", 
+    "First, make sure you're looking at the LMS side of Open edX.", 
+    "From here, go to your Instructor Dashboard and then click on the", 
+    "Membership tab.", 
+    "At the bottom of the page,", 
+    "you'll see the Administration List Management section.", 
+    "From the drop down menu, select instructors.", 
+    "To add an instructor, simply type their email address or username in the given", 
+    "field, and click Add Instructor.", 
+    "It's important to note that this new instructor must already be an Open edX", 
+    "registered user.", 
+    "And there you go. That's all there is to it."
+  ]
+}

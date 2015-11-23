@@ -1,0 +1,47 @@
+{
+  "start": [
+    2008, 
+    4859, 
+    5077, 
+    9699, 
+    11005, 
+    14859, 
+    20004, 
+    25079, 
+    29919, 
+    30829, 
+    34000, 
+    38008, 
+    42036
+  ], 
+  "end": [
+    4787, 
+    5770, 
+    9006, 
+    11500, 
+    14364, 
+    20400, 
+    24683, 
+    29163, 
+    30010, 
+    34000, 
+    38008, 
+    42036, 
+    45103
+  ], 
+  "text": [
+    "In this video, we&#39;re going to talk to you about Team Members and how to add them", 
+    "to your course.", 
+    "Team Members are also known as Staff or Co-Authors. They have the ability to", 
+    "edit courses and add content.", 
+    "To add them to your course, start from edX Studio.", 
+    "From your edX Studio page, click the Settings drop down menu at the top", 
+    "then select Course Team.", 
+    "Next, just click the Add New Team Member button. Now, just type the email address of the", 
+    "new team member.", 
+    "It&#39;s important to note that this new team member must", 
+    "already be an Open edX registered user", 
+    "Then click Add User.", 
+    "And there you go. It\u2019s as easy as that."
+  ]
+}
